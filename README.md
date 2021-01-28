@@ -1,6 +1,8 @@
 # WLOP-based-PtCloudDenoiser
 This is a MATLAB implementation of "Consolidation of Unorganized Point Clouds for Surface Reconstruction"(Huang et al.,2009)
 
+### Original Paper
+```
 @article{huang2009consolidation,
   title={Consolidation of unorganized point clouds for surface reconstruction},
   author={Huang, Hui and Li, Dan and Zhang, Hao and Ascher, Uri and Cohen-Or, Daniel},
@@ -11,3 +13,6 @@ This is a MATLAB implementation of "Consolidation of Unorganized Point Clouds fo
   year={2009},
   publisher={ACM New York, NY, USA}
 }
+```
+
+
