@@ -3,7 +3,8 @@ This is a MATLAB implementation of "Consolidation of Unorganized Point Clouds fo
 
 ### Demo Image
 
-This is a demo using CMU panoptic dataset.
+This is a demo of this code using CMU panoptic dataset.
+Each colored point sets are denoted denoised input after iteration 1 ~ 4 
 
 
 ![Demo Image](https://github.com/jinseokbae/WLOP-based-PointCloudDenoiser/blob/master/vis.png)
