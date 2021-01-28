@@ -4,9 +4,7 @@ This is a MATLAB implementation of "Consolidation of Unorganized Point Clouds fo
 ### Demo Image
 
 This is a demo using CMU panoptic dataset.
-'''
-http://domedb.perception.cs.cmu.edu
-'''
+
 
 ![Demo Image](https://github.com/jinseokbae/WLOP-based-PointCloudDenoiser/blob/master/demo1.png)
 
